@@ -1,0 +1,5 @@
+Erstelle Karteikarten zu dem als nächstes eingegebene Kapitel. Angefangen wird mit Kapitel 1.1 "Verteilte Systeme in Hamburg" und 10 Karten. Die Karteikarten sollen eine Vorderseite mit einer atomaren Frage und einer Rückseite mit 1 bis 5 kurzen, stichpunktartigen Antwortmöglichkeiten haben. Eine Antwort sollte nicht länger als ein Satz sein. Danach gebe ich das Kapitel und die Anzahl der zu generierenden Karteikarten an.
+
+
+Kapitel: 1.2 Definition Verteiltes System
+Anzahl der Karteikarten: 10
