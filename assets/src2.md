@@ -1,5 +1,9 @@
-Erstelle Karteikarten zu dem als nächstes eingegebene Kapitel. Angefangen wird mit Kapitel 2.3.1 "Model Viewer Controller" und 10 Karten. Die Karteikarten sollen eine Vorderseite mit einer atomaren Frage und einer Rückseite mit 1 bis 5 kurzen, stichpunktartigen Antwortmöglichkeiten haben. Eine Antwort sollte nicht länger als ein Satz sein. Danach gebe ich das Kapitel und die Anzahl der zu generierenden Karteikarten an.
+## 2.3.1 - F
 
+Kapitel: 2.3.1 Model Viewer Controller
+Anzahl der Karteikarten: 10
+
+## 2.3.1 - A
 
 Vorderseite: Was ist der Model Viewer Controller?
 Rückseite: Architekturmuster für die Trennung von Daten, Präsentation und Steuerung
@@ -31,9 +35,12 @@ Rückseite: Effektive und effiziente Verwaltung, Skalierbarkeit, Zuverlässigkei
 Vorderseite: Was sind die generischen Ziele für die Entwicklung verteilter Systeme?
 Rückseite: Die gleichen wie für nicht-verteilte Systeme, z.B. Funktionalität, Zuverlässigkeit, Wartbarkeit.
 
+## 2.3.2 - F
 
 Kapitel: 2.3.2 VCM und CVM
 Anzahl der Karteikarten: 10
+
+## 2.3.2 - A
 
 
 Vorderseite: Was ist VCM?
@@ -66,9 +73,12 @@ Rückseite: Darstellung der Daten und Benutzeroberfläche.
 Vorderseite: Welche Aufgaben hat das Controller-Modul in CVM?
 Rückseite: Steuerung des Ablaufs und Verarbeitung von Benutzereingaben.
 
+## 2.3.3 - F
 
 Kapitel: 2.3.3 Vertreter
 Anzahl der Karteikarten: 10
+
+## 2.3.3 - A
 
 
 Vorderseite: Was sind Vertreter im Zusammenhang mit verteilten Systemen?
@@ -101,9 +111,12 @@ Rückseite: Ein Vertreter, der vom entfernten Objekt aufgerufen wird, um asynchr
 Vorderseite: Wie können Callback-Vertreter genutzt werden?
 Rückseite: Um asynchrone Benachrichtigungen über Ereignisse oder Statusänderungen von entfernten Objekten zu empfangen.
 
+## 2.3.4 - F
 
 Kapitel: 2.3.4 Observer Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.4 - A
 
 
 Vorderseite: Was ist das Observer Pattern?
@@ -136,9 +149,12 @@ Rückseite: Es wird oft in grafischen Benutzeroberflächen und Ereignis-basierte
 Vorderseite: Was zeigt Abbildung 14 auf Seite 99?
 Rückseite: Das Observer Pattern mit drei Komponenten: Subject, Observer und ConcreteSubject.
 
+## 2.3.5 - F
 
 Kapitel: 2.3.5 Callback Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.5 - A
 
 
 Vorderseite: Was ist das Callback Pattern?
@@ -171,9 +187,12 @@ Rückseite: Es kann zu komplexem und schwer nachvollziehbarem Code führen, wenn
 Vorderseite: Was zeigt Abbildung 17 auf Seite 104?
 Rückseite: Eine Darstellung der Schlüsselelemente des Callback Patterns.
 
+## 2.3.6 - F
 
 Kapitel: 2.3.6 Singleton Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.6 - A
 
 
 Vorderseite: Was ist das Singleton Pattern?
@@ -206,9 +225,12 @@ Rückseite: Eine Darstellung des Singleton Patterns mit einer Singleton-Klasse, 
 Vorderseite: Was sind die Komponenten der Singleton-Klasse in Abbildung 19?
 Rückseite: Die Singleton-Klasse hat eine private statische Variable, die die einzige Instanz der Klasse speichert, und einen privaten Konstruktor, der die Erstellung von Instanzen von außen verhindert.
 
+## 2.3.7 - F
 
 Kapitel: 2.3.7 Factory Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.7 - A
 
 
 Vorderseite: Was ist das Factory Pattern?
@@ -244,9 +266,12 @@ Rückseite: Durch die zentrale Verwaltung der Objekterstellung kann das Factory 
 Vorderseite: Was sind die Vorteile des Factory Patterns in Bezug auf Ressourcenverwaltung?
 Rückseite: Das Factory Pattern kann dazu beitragen, Ressourcen effizienter zu verwalten, da es ermöglicht, dass nur eine begrenzte Anzahl von Objekten erstellt wird und diese bei Bedarf wiederverwendet werden können.
 
+## 2.3.8 - F
 
 Kapitel: 2.3.8 Dependency Injection Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.8 - A
 
 
 Vorderseite: Was ist das Dependency Injection Pattern?
@@ -285,9 +310,12 @@ Rückseite: Ein Beispiel wäre die Verwendung von Mockito oder EasyMock zum Erst
 Vorderseite: Was zeigt Abbildung 22 auf Seite 114?
 Rückseite: Eine Darstellung des Dependency Injection Patterns mit einer abstrakten Klasse oder Schnittstelle und einer oder mehreren konkreten Klassen, die diese Schnittstelle implementieren. Eine externe Komponente (z.B. ein Framework) wird verwendet, um die Abhängigkeiten zu erstellen und zu verwalten.
 
+## 2.3.9 - F
 
 Kapitel: 2.3.9 Adapter und Wrapper Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.9 - A
 
 
 Vorderseite: Was sind das Adapter und Wrapper Pattern?
@@ -323,9 +351,12 @@ Rückseite: Es wird oft eingesetzt, um eine vorhandene Komponente anzupassen ode
 Vorderseite: Was ist ein Beispiel für den Einsatz des Wrapper Patterns in der Praxis?
 Rückseite: Ein Beispiel wäre die Verwendung eines Wrappers zur Erweiterung der Funktionalität einer Datenbankkomponente in einer Anwendung. Der Wrapper könnte beispielsweise zusätzliche Methoden bereitstellen, um die Datenbankabfragen zu optimieren oder zu vereinfachen.
 
+## 2.3.10 - F
 
 Kapitel: 2.3.10 Interceptor Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.10 - A
 
 
 Vorderseite: Was ist das Interceptor Pattern?
@@ -358,9 +389,12 @@ Rückseite: Eine Quellkomponente ist die Komponente, die eine Nachricht sendet.
 Vorderseite: Was sind Interceptors im Zusammenhang mit dem Interceptor Pattern?
 Rückseite: Interceptors sind Komponenten, die eingehende und ausgehende Nachrichten abfangen und verarbeiten, bevor sie an die eigentliche Zielkomponente weitergeleitet werden.
 
+## 2.3.11 - F
 
 Kapitel: 2.3.11 Fassade Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.11 - A
 
 
 Vorderseite: Was ist das Fassade Pattern?
@@ -396,9 +430,12 @@ Rückseite: Eine Abstraktion ist eine vereinfachte Darstellung eines komplexen S
 Vorderseite: Was sind die Herausforderungen bei der Verwendung des Fassade Patterns?
 Rückseite: Eine Herausforderung besteht darin, eine geeignete Schnittstelle für das komplexe Subsystem zu definieren. Außerdem kann es schwierig sein, die Fassade-Schicht so zu gestalten, dass sie flexibel genug ist, um Änderungen am System zu ermöglichen.
 
+## 2.3.12 - F
 
 Kapitel: 2.3.12 Pipeline Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.12 - A
 
 
 Vorderseite: Was ist das Pipeline Pattern?
@@ -431,9 +468,12 @@ Rückseite: Es ermöglicht die Implementierung von komplexen Verarbeitungsprozes
 Vorderseite: Was sind die Herausforderungen bei der Verwendung des Pipeline Patterns?
 Rückseite: Eine Herausforderung besteht darin, eine geeignete Abfolge von Verarbeitungsschritten zu definieren und sicherzustellen, dass jeder Schritt korrekt ausgeführt wird. Außerdem kann es schwierig sein, den Durchsatz des Pipelines zu optimieren und Engpässe zu vermeiden.
 
+## 2.3.13 - F
 
 Kapitel: 2.3.13 Watchdog
 Anzahl der Karteikarten: 10
+
+## 2.3.13 - A
 
 
 Vorderseite: Was ist das Watchdog Pattern?
@@ -463,9 +503,12 @@ Rückseite: Es ermöglicht eine frühzeitige Erkennung von Fehlern oder Störung
 Vorderseite: Was sind die Herausforderungen bei der Verwendung des Watchdog Patterns?
 Rückseite: Eine Herausforderung besteht darin, den Überwachungsmechanismus so zu gestalten, dass er zuverlässig und effektiv arbeitet. Außerdem kann es schwierig sein, geeignete Maßnahmen zur Fehlerbehebung zu definieren und sicherzustellen, dass sie korrekt ausgeführt werden.
 
+## 2.3.14 - F
 
 Kapitel: 2.3.14 Master-Worker Pattern
 Anzahl der Karteikarten: 10
+
+## 2.3.14 - A
 
 
 Vorderseite: Was ist das Master-Worker Pattern?
@@ -495,9 +538,12 @@ Rückseite: Es ermöglicht eine effiziente Verteilung von Arbeitslasten auf mehr
 Vorderseite: Was sind die Herausforderungen bei der Verwendung des Master-Worker Patterns?
 Rückseite: Eine Herausforderung besteht darin, eine geeignete Aufteilung der Arbeitslast auf die Worker zu definieren und sicherzustellen, dass jeder Worker korrekt arbeitet. Außerdem kann es schwierig sein, den Kommunikationsaufwand zwischen den Prozessen zu optimieren und Engpässe zu vermeiden.
 
+## 2.4.1 - F
 
 Kapitel: 2.4.1 Remote Procedure Call
 Anzahl der Karteikarten: 20
+
+## 2.4.1 - A
 
 
 Vorderseite: Was ist Remote Procedure Call (RPC)?
@@ -569,9 +615,12 @@ Rückseite: Es ermöglicht die Kommunikation zwischen Objekten auf unterschiedli
 Vorderseite: Was sind die Herausforderungen bei der Verwendung von CORBA?
 Rückseite: Eine Herausforderung besteht darin, ein geeignetes CORBA-Implementierung zu wählen, das den Anforderungen der Anwendung entspricht. Außerdem kann es schwierig sein, das CORBA-System korrekt zu konfigurieren und sicherzustellen, dass es ordnungsgemäß funktioniert.
 
+## 2.4.2 - F
 
 Kapitel: 2.4.2 P2P Chord
 Anzahl der Karteikarten: 10
+
+## 2.4.2 - A
 
 
 Vorderseite: Was ist die P2P Chord-Architektur?
