@@ -1,5 +1,5 @@
 # t2a_converter
-This repository contains some scripts to convert plain text created by [chatpdf.com](https://chatpdf.com) and saved to an .txt-file to an anki flashcard compatible .txt file for import. 
+This repository contains some scripts to convert plain text created by [chatpdf.com](https://chatpdf.com) (and saved to an .txt-file) to an anki flashcard compatible .txt file for import. 
 The format of the input file is as one of the following two options:
 
 ```
